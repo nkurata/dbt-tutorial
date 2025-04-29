@@ -14,7 +14,15 @@ The primary goal of this repository is to:
 
 The repository is organized as a dbt project, with the following structure:
 
-adventureworks/├── models/          # Contains dbt SQL models (transformations)├── seeds/           # Contains CSV files for initial data loading├── tests/           # Contains data quality tests├── macros/          # (Optional) Reusable SQL code├── dbt_project.yml  # dbt project configuration file├── profiles.yml     # dbt connection profiles (local setup)└── README.md        # Project documentation (this file)
+dbt-dimensional/
+├── models/          # Contains dbt SQL models (transformations)
+├── seeds/           # Contains CSV files for initial data loading
+├── tests/           # Contains data quality tests
+├── macros/          # (Optional) Reusable SQL code
+├── dbt_project.yml  # dbt project configuration file
+├── profiles.yml     # dbt connection profiles (local setup)
+└── README.md        # Project documentation (this file)
+
 ## Getting Started
 
 ### Prerequisites
