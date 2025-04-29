@@ -1,4 +1,4 @@
-# My dbt tutorial Project
+# My dbt tutorial Project - Jaffle Shop
 
 This project was set up following the [dbt Core manual installation guide](https://docs.getdbt.com/guides/manual-install?step=1).
 
