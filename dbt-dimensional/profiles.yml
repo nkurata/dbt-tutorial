@@ -1,0 +1,7 @@
+dbtdimensional:
+  target: duckdb
+  outputs:
+    duckdb:
+     type: duckdb
+     path: target/dbt-dimensional.duckdb
+     threads: 12
