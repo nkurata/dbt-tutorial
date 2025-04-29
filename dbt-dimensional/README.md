@@ -14,7 +14,7 @@ The primary goal of this repository is to:
 
 The repository is organized as a dbt project, with the following structure:
 
-dbt-dimensional/
+dbt-dimensional/  
 ├── models/          # Contains dbt SQL models (transformations)  
 ├── seeds/           # Contains CSV files for initial data loading  
 ├── tests/           # Contains data quality tests  
